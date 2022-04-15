@@ -2,6 +2,7 @@
 
 ## Overview of Project: Explain the purpose and background of this analysis.
 
+Steve has asked us to assist him on analysis of a handful of of green energy stocks. 
 ## Results: 
 ### Using images and examples of your code, compare the stock performance between 2017 and 2018
 
