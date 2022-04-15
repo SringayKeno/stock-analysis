@@ -8,7 +8,8 @@ Steve, who rencently graduated with his finance degree, has asked me to assist h
 ## Results: 
 ### Using images and examples of your code, compare the stock performance between 2017 and 2018
 ![VBA_Challengs_2017](https://user-images.githubusercontent.com/102890151/163652246-45b003a0-816b-4926-8c05-5ddbefea2fc2.png)
-![VBA_Challenge_2018](https://user-images.githubusercontent.com/102890151/163652275-68cc6e0e-a65b-405d-8d11-49f1e657cded.png)
+
+<img width="217" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/102890151/163652322-fbaa7971-5ab8-467d-a022-e0beecda39c7.png">
 
 
 ### as well as the execution times of the original script and the refactored script.
