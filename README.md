@@ -48,7 +48,7 @@ Here is the same 2017 stock results run with the re-edited code. That code took 
 
 <img width="500" alt="VBA_Challenge_2017_refac - Copy (2)" src="https://user-images.githubusercontent.com/102890151/163658857-9571e3e9-de73-43f5-b3e7-878c274b8e3c.png">
 
-Here is the code run time for the original 2018 code (1.382813 seconds)
+Here is the code run time for the original code and the 2018 stock results (1.382813 seconds)
 
 <img width="500" alt="VBA_Challenge_2018_original" src="https://user-images.githubusercontent.com/102890151/163659195-1165b206-25b5-4b8d-9790-923752f49dbc.png">
 
