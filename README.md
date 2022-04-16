@@ -47,7 +47,8 @@ Here is the refactored code
 
 To get the amount of time it will take to run Steve’s stock analysis script, I needed to capture the start time and end time of the executed code. VBA does have a Timer function.
 
-The VBA timer function placed in code
+
+Below- The VBA timer function placed in code
 
 ![VBA_Challenge_Timer](https://user-images.githubusercontent.com/102890151/163657346-392fd7c0-425e-4f7c-8693-442861bf0ebf.png)
 
