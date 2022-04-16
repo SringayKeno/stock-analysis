@@ -12,8 +12,7 @@ Only two of the twelve green stocks carried positive returns with them into 2018
 
 images 2017 and 2018
 
-<img width="251" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/102890151/163652730-d0a415ff-9eda-4be0-875e-4f49bc178064.png"> <img width="251" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/102890151/163652733-780cc8b0-1566-49a1-a271-15054d7090ec.png">![Screenshot (23)](https://user-images.githubusercontent.com/102890151/163657288-a83b9b9b-6e7a-4d42-80ef-22326a615615.png)
-
+<img width="251" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/102890151/163652730-d0a415ff-9eda-4be0-875e-4f49bc178064.png"> <img width="251" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/102890151/163652733-780cc8b0-1566-49a1-a271-15054d7090ec.png">
 
 ### Method- Daily Volume
 
@@ -47,13 +46,9 @@ Image 2 below show elasped time for the re-edited or refactored code for the sam
 
 <img width="500" alt="VBA_Challenge_2017_refac - Copy (2)" src="https://user-images.githubusercontent.com/102890151/163658857-9571e3e9-de73-43f5-b3e7-878c274b8e3c.png">
 
-Image 3 (2018 original code) took 1.382813 seconds to run
 
-<img width="500" alt="VBA_Challenge_2018_original" src="https://user-images.githubusercontent.com/102890151/163659195-1165b206-25b5-4b8d-9790-923752f49dbc.png">
 
-And finally (Image 4) the re-edited code took only 0.1640625 seconds to run
-
-<img width="500" alt="VBA_Challenge_2018_refac" src="https://user-images.githubusercontent.com/102890151/163659201-2dea2b81-fcb3-4900-94a7-d67b240b5165.png">
+<img width="500" alt="VBA_Challenge_2018_original" src="https://user-images.githubusercontent.com/102890151/163659195-1165b206-25b5-4b8d-9790-923752f49dbc.png"><img width="500" alt="VBA_Challenge_2018_refac" src="https://user-images.githubusercontent.com/102890151/163659201-2dea2b81-fcb3-4900-94a7-d67b240b5165.png">
 
 ## Summary: 
 
