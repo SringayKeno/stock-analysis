@@ -26,9 +26,11 @@ The second measure used to analye the stock was yearly return (the percentage in
 
 ![Screenshot (19)](https://user-images.githubusercontent.com/102890151/163656718-b2b8351a-7d68-4f6b-a79c-0a55d360bce4.png)
 
-### Measuring Code Performance
+### Refactoring
 
 Steve, wants to do more stock research and he wants to expand the dataset to include the entire stock market over the last few years. Although my current code works well for the twleve stocks we analyed, it might not work as well for thousands of stocks. So I edited or refactored the code to make it more efficient —by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read.
+
+### Code Run Times
 
 To get the amount of time it will take to run Steve’s stock analysis script, I needed to capture the start time and end time of the executed code. VBA does have a Timer function.
 
