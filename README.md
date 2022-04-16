@@ -8,6 +8,8 @@ Steve, who rencently graduated with his finance degree, has asked me to assist h
 ## Results: 
 ### Stock performance between 2017 and 2018
 
+Only two of the twelve green stocks carried positive returns with them into 2018 from 2017. Those were tickers RUN (83.95% return) and ENPH (81.92%).The total daily volume for both those stocks increased from 2017 to 2018. Stock ticker DQ, who Steve's parents originally wanted to look at dropped significanly in 2018 (-62.60%) from its 2017 return (199.45%). 
+
 <img width="251" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/102890151/163652730-d0a415ff-9eda-4be0-875e-4f49bc178064.png"> <img width="251" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/102890151/163652733-780cc8b0-1566-49a1-a271-15054d7090ec.png">
 
 
