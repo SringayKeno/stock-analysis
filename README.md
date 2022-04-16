@@ -16,7 +16,7 @@ images 2017 and 2018
 
 ### Analysis
 
-Analysis was completed on two measures of the stock. The first was daily volume (how actively stock was traded). If I sum up all of the daily volume for a ticker, I will have the yearly volume and a rough idea of how often it gets traded. To find the total daily volume, I will loop through every row in the stock data worksheet and check for the ticker. The daily volume for that ticker will be then added to the total volume for the same ticker.
+Analysis was completed on two measures of the stock. The first was daily volume (how actively stock was traded). If I sum up all of the daily volume for a ticker, I will have the yearly volume and a rough idea of how often it gets traded. To find the total daily volume, I looped through every row in the stock data worksheet and checked for the ticker. The daily volume for that ticker will be then added to the total volume for the same ticker.
 
 ![VBA_Challenge_Volume](https://user-images.githubusercontent.com/102890151/163655664-2c8e8c20-d6bd-4f81-966d-14a78e003515.png)
 
