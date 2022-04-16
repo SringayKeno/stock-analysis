@@ -2,13 +2,16 @@
 
 ## Overview of Project: Purpose and Background of Analysis.
 
-Steve, who rencently graduated with his finance degree, has asked me to assist him on analysis of a handful of green energy stocks for his parent's, who will be his first client. Steve has created an Excel file containing the stock data he wants us to analyze. I will be using an extension in Excel built for automating tasks, called Visual Basic for Application (VBA). VBA is able to make calculations, and use complex logic to perform analysis on the stock data. I will do analysis on two measures of the stock; 1) how actively stock was traded (daily volume) and 2) percentage increase or decrease in price from the beginning to the end of the year (yearly return). Additionally, I used the VBA code to automate the analysis which in the future, will allow Steve to do analysis with any stock.
+Steve, who recently graduated with his finance degree, has asked me to assist him on analysis of a handful of green energy stocks for his parent's, who will be his first client. Steve has created an Excel file containing the stock data he wants us to analyze. I will be using an extension in Excel built for automating tasks, called Visual Basic for Application (VBA). VBA is able to make calculations, and use complex logic to perform analysis on the stock data. I will do analysis on two measures of the stock; 1) how actively stock was traded (daily volume) and 2) percentage increase or decrease in price from the beginning to the end of the year (yearly return). Additionally, I used the VBA code to automate the analysis which in the future, will allow Steve to do analysis with any stock.
 
 
 ## Results: 
 ### Stock Performance Between 2017 and 2018
 
-Only two of the twelve green stocks carried positive returns with them into 2018 from 2017 (images 2017 and 2018 below). Those were tickers RUN (83.95% return) and ENPH (81.92%).The total daily volume for both those stocks increased from 2017 to 2018. Stock ticker DQ, who Steve's parents originally wanted to look at dropped significanly in 2018 (-62.60%) from its 2017 return (199.45%). 
+Only two of the twelve green stocks carried positive returns with them into 2018 from 2017 (images 2017 and 2018 below). Those were tickers RUN (83.95% return) and ENPH (81.92%). The total daily volume for both those stocks increased from 2017 to 2018. There are some that believe the more active trading the closer to true vale s reflected in the stock price. 
+
+Stock ticker DQ, who Steve's parents originally wanted to look at had dropped significantly in 2018 (-62.60%) from its 2017 return (199.45%). 
+
 
 images 2017 and 2018
 
@@ -28,9 +31,9 @@ The second measure used to analye the stock was yearly return (the percentage in
 
 ### Refactoring
 
-Steve, wants to do more stock research and he wants to expand the dataset to include the entire stock market over the last few years. Although my current code works well for the twleve stocks we analyed, it might not work as well for thousands of stocks. So I edited or refactored the code to make it more efficient —by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read.
+Steve, wants to do more stock research and he wants to expand the dataset to include the entire stock market over the last few years. Although my current code works well for the twleve stocks analyed, it might not work as well for thousands of stocks. So I edited or refactored the code to make it more efficient —by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read.
 
-I refactored the code in the loops that run through the stock data. In the orginal code the loops would go through all the rows of data to collect the information. In the re-edited code the lo0ps would only go through a table or range (not all the data) to to return a value. 
+I refactored the code in the loops that run through the stock data. In the orginal code the loops would go through all the rows of data to collect the information. In the re-edited code the loops would only go through a table or range (not all the data) to to return a value. 
 
 Below is the original code
 
@@ -38,7 +41,7 @@ Below is the original code
 
 Here is the refactored code
 
-<img width="700" alt="VBA_Challenge_refac" src="https://user-images.githubusercontent.com/102890151/163685207-7714dce2-0e02-418f-b2c8-b6eb555743e4.png">
+<img width="700" alt="VBA_Challenge_refac" src="https://user-images.githubusercontent.com/102890151/163686736-ababc6d5-8b3d-4cab-8616-727fa9aff828.png">
 
 ### Code Run Times
 
@@ -72,9 +75,9 @@ And finally the refactored code for the same 2018 stock data came in at 0.164062
 
 ### What are the advantages/disadvantages of refactoring code and how do these pros and cons apply to refactoring the original VBA script?
 
-Refactoring the code for the stocks analysis had just two disadvantages. One it took time to do the re-editing, and secondly, it did introduce the possibility of creating bugs in the script. However, in this case refactoring was neccessary.
+Refactoring the code for the stocks analysis had just two disadvantages. One it took time to do the re-editing, and secondly, it did introduce the possibility of creating bugs in the script. However, in this case refactoring was neccessaryas we will see below from the advantages.
 
-Refactoring the code had several advantages. The re-editing of the code by made for fewer steps in the code (the loops could run shorter when looking for the returns), using less memory, and making the calclations faster. How do these advantages apply to original script? Without the re-editing I highly doubt the orginal code would have been able to handle Steve's expanded data sets for evaluation in the future of stock. Steve mentioned 1000's of data sets could be analyzed. Seeing the change in run time of the original code vs re-edited code just with one dozen stocks, I could see 1000's being an issue.
+Refactoring the code had several advantages. The re-editing of the code by made for fewer steps in the code (the loops could run shorter when looking for the returns), using less memory, and making the calclations faster. How do these advantages apply to original script? Without the re-editing I highly doubt the orginal code would have been able to handle Steve's expanded data sets for evaluation of 1000's of stocks in the future. Seeing the change in run time of the original code vs re-edited code with just a mere one dozen stocks, I could see how the evaluation of 1000's of stocks would be an issue.
 
 
 
