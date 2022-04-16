@@ -22,8 +22,9 @@ Analysis was completed on two measures of the stock. The first was daily volume 
 
 ### Method- Yearly Return
 
-THe second measure used to analye the stock was yearly return (the percentage increase or decrease in price from the beginning to the end of the year (yearly return). 
+The second measure used to analye the stock was yearly return (the percentage increase or decrease in price from the beginning to the end of the year). To do this calculation I need the tickers first closing price and last closing price. To find the first closing price I looped through all the rows of data. Checked if the current row is the first row of the tickers data. If it was, I then set the starting price to the closing price in the current row (5a in image below). For the ending price I did the same (5b in image)
 
+![Screenshot (19)](https://user-images.githubusercontent.com/102890151/163656718-b2b8351a-7d68-4f6b-a79c-0a55d360bce4.png)
 
 
 
