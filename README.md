@@ -38,13 +38,23 @@ The starting time function is placed after the input box so once the year for an
 
 ### Code Performance Results
 
-With the timer function placed in both the original code and the refactored code we can now know the time it will take to run the stock analysis scripts for each. Below (image 1) is time for the original code for 2017 stock results (1.390625 seconds)
+With the timer function placed in both the original code and the refactored code I can now know the time it will take to run the stock analysis scripts for each. 
 
-<img width="490" alt="VBA_Challenge_2017_original - Copy (7)" src="https://user-images.githubusercontent.com/102890151/163658728-b54ba928-230b-4076-8c2f-cef7762a8add.png"><img width="500" alt="VBA_Challenge_2017_refac - Copy (2)" src="https://user-images.githubusercontent.com/102890151/163658857-9571e3e9-de73-43f5-b3e7-878c274b8e3c.png">
+Below are the original 2017 stock results. That code took 1.390625 seconds to run.
 
+<img width="500" alt="VBA_Challenge_2017_original - Copy (7)" src="https://user-images.githubusercontent.com/102890151/163658728-b54ba928-230b-4076-8c2f-cef7762a8add.png">
 
+Here is the same 2017 stock results run with the re-edited code. That code took just 0.1796875 seconds to run
 
-<img width="500" alt="VBA_Challenge_2018_original" src="https://user-images.githubusercontent.com/102890151/163659195-1165b206-25b5-4b8d-9790-923752f49dbc.png"><img width="500" alt="VBA_Challenge_2018_refac" src="https://user-images.githubusercontent.com/102890151/163659201-2dea2b81-fcb3-4900-94a7-d67b240b5165.png">
+<img width="500" alt="VBA_Challenge_2017_refac - Copy (2)" src="https://user-images.githubusercontent.com/102890151/163658857-9571e3e9-de73-43f5-b3e7-878c274b8e3c.png">
+
+Here is the code run time for the 2018 code (1.382813 seconds)
+
+<img width="500" alt="VBA_Challenge_2018_original" src="https://user-images.githubusercontent.com/102890151/163659195-1165b206-25b5-4b8d-9790-923752f49dbc.png">
+
+And finally the refactored code for the same 2018 stock data came in at 0.1640625 seconds
+
+<img width="500" alt="VBA_Challenge_2018_refac" src="https://user-images.githubusercontent.com/102890151/163659201-2dea2b81-fcb3-4900-94a7-d67b240b5165.png">
 
 ## Summary: 
 
