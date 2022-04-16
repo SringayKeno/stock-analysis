@@ -30,6 +30,8 @@ The second measure used to analye the stock was yearly return (the percentage in
 
 Steve, wants to do more stock research and he wants to expand the dataset to include the entire stock market over the last few years. Although my current code works well for the twleve stocks we analyed, it might not work as well for thousands of stocks. So I edited or refactored the code to make it more efficient —by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read.
 
+<img width="500" alt="VBA_Challenge_original" src="https://user-images.githubusercontent.com/102890151/163685203-c8339544-2487-4691-a70a-30e9c4218ea7.png"> <img width="500" alt="VBA_Challenge_refac" src="https://user-images.githubusercontent.com/102890151/163685207-7714dce2-0e02-418f-b2c8-b6eb555743e4.png">
+
 ### Code Run Times
 
 To get the amount of time it will take to run Steve’s stock analysis script, I needed to capture the start time and end time of the executed code. VBA does have a Timer function.
@@ -60,6 +62,10 @@ And finally the refactored code for the same 2018 stock data came in at 0.164062
 
 ## Summary: 
 
-### In a summary statement, address the following questions.
 ### What are the advantages or disadvantages of refactoring code?
+
+Refactoring the code for the stocks analysis had several advantages.  Improves the Design of Software
+Refactoring Makes Software Easier to Understand
+Refactoring Helps Finding Bugs
+Refactoring Helps Programming Faster
 ### How do these pros and cons apply to refactoring the original VBA script?
