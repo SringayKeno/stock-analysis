@@ -14,7 +14,13 @@ images 2017 and 2018
 
 <img width="251" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/102890151/163652730-d0a415ff-9eda-4be0-875e-4f49bc178064.png"> <img width="251" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/102890151/163652733-780cc8b0-1566-49a1-a271-15054d7090ec.png">
 
+Analysis was completed on two measures of the stock. The first was daily volume (how actively stock was traded).
 
+
+
+
+
+(daily volume) and 2) percentage increase or decrease in price from the beginning to the end of the year (yearly return). 
 
 
 ### as well as the execution times of the original script and the refactored script.
