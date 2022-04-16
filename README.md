@@ -40,7 +40,7 @@ The starting time function is placed after the input box so once the year for an
 
 With the timer function placed in both the original code and the refactored code I can now know the time it will take to run the stock analysis scripts for each. 
 
-Below are the original 2017 stock results. That code took 1.390625 seconds to run
+Below are the original 2017 stock results run with the original VBA code. That code took 1.390625 seconds to run
 
 <img width="500" alt="VBA_Challenge_2017_original - Copy (7)" src="https://user-images.githubusercontent.com/102890151/163658728-b54ba928-230b-4076-8c2f-cef7762a8add.png">
 
