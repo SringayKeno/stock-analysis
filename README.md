@@ -40,7 +40,8 @@ The starting time function is placed after the input box so once the year for an
 With the timer function placed in both the original code and the refactored code the elasped time displayed.On the left (image 1) is time for the original code for 2017, and on the left is the re edited code for the same.
 
 
-<img width="650" alt="VBA_Challenge_2017_original - Copy (7)" src="https://user-images.githubusercontent.com/102890151/163658728-b54ba928-230b-4076-8c2f-cef7762a8add.png"> ![VBA_Challenge_2017_refac](https://user-images.githubusercontent.com/102890151/163658782-7f198067-41fc-4dde-89c6-86d25c9d6dc6.png)
+<img width="600" alt="VBA_Challenge_2017_original - Copy (7)" src="https://user-images.githubusercontent.com/102890151/163658728-b54ba928-230b-4076-8c2f-cef7762a8add.png">
+![VBA_Challenge_2017_refac](https://user-images.githubusercontent.com/102890151/163658782-7f198067-41fc-4dde-89c6-86d25c9d6dc6.png)
 
 
 
