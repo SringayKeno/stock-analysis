@@ -34,11 +34,11 @@ I refactored the code in the loops that run through the stock data. In the orgin
 
 Below is the original code
 
-<img width="650" alt="VBA_Challenge_original" src="https://user-images.githubusercontent.com/102890151/163685203-c8339544-2487-4691-a70a-30e9c4218ea7.png"> 
+<img width="700" alt="VBA_Challenge_original" src="https://user-images.githubusercontent.com/102890151/163685203-c8339544-2487-4691-a70a-30e9c4218ea7.png"> 
 
 Here is the refactored code
 
-<img width="650" alt="VBA_Challenge_refac" src="https://user-images.githubusercontent.com/102890151/163685207-7714dce2-0e02-418f-b2c8-b6eb555743e4.png">
+<img width="700" alt="VBA_Challenge_refac" src="https://user-images.githubusercontent.com/102890151/163685207-7714dce2-0e02-418f-b2c8-b6eb555743e4.png">
 
 ### Code Run Times
 
@@ -70,10 +70,11 @@ And finally the refactored code for the same 2018 stock data came in at 0.164062
 
 ## Summary: 
 
-### What are the advantages or disadvantages of refactoring code?
+### What are the advantages/disadvantages of refactoring code and how do these pros and cons apply to refactoring the original VBA script?
 
-Refactoring the code for the stocks analysis had several advantages.  Improves the Design of Software
-Refactoring Makes Software Easier to Understand
-Refactoring Helps Finding Bugs
-Refactoring Helps Programming Faster
-### How do these pros and cons apply to refactoring the original VBA script?
+Refactoring the code for the stocks analysis had just two disadvantages. One it took time to do the re-editing, and secondly, it did introduce the possibility of creating bugs in the script. However, in this case refactoring was neccessary.
+
+Refactoring the code had several advantages. The re-editing of the code by made for fewer steps in the code (the loops could run shorter when looking for the returns), using less memory, and making the calclations faster. How do these advantages apply to original script? Without the re-editing I highly doubt the orginal code would have been able to handle Steve's expanded data sets for evaluation in the future of stock. Steve mentioned 1000's of data sets could be analyzed. Seeing the change in run time of the original code vs re-edited code just with one dozen stocks, I could see 1000's being an issue.
+
+
+
