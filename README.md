@@ -40,7 +40,7 @@ The starting time function is placed after the input box so once the year for an
 
 With the timer function placed in both the original code and the refactored code we can now know the time it will take to run the stock analysis scripts for each. Below (image 1) is time for the original code for 2017 stock results (1.390625 seconds)
 
-<img width="500" alt="VBA_Challenge_2017_original - Copy (7)" src="https://user-images.githubusercontent.com/102890151/163658728-b54ba928-230b-4076-8c2f-cef7762a8add.png"><img width="500" alt="VBA_Challenge_2017_refac - Copy (2)" src="https://user-images.githubusercontent.com/102890151/163658857-9571e3e9-de73-43f5-b3e7-878c274b8e3c.png">
+<img width="490" alt="VBA_Challenge_2017_original - Copy (7)" src="https://user-images.githubusercontent.com/102890151/163658728-b54ba928-230b-4076-8c2f-cef7762a8add.png"><img width="500" alt="VBA_Challenge_2017_refac - Copy (2)" src="https://user-images.githubusercontent.com/102890151/163658857-9571e3e9-de73-43f5-b3e7-878c274b8e3c.png">
 
 
 
