@@ -35,10 +35,11 @@ To get the amount of time it will take to run Steve’s stock analysis script, I
 
 ![VBA_Challenge_Timer](https://user-images.githubusercontent.com/102890151/163657346-392fd7c0-425e-4f7c-8693-442861bf0ebf.png)
 
-The starting time function is placed after the input box so once the year for analysis is chosen, the timer starts. Similarily there is an end timer placed at the end of the process.
+The starting time function is placed after the input box so once the year for analysis is chosen, the timer starts. Similarily there is an end timer placed at the end of the code.
+
+With the timer function placed in both the original code and the refactored code the elasped time displayed.On the left (image 1) is time for the original code for 2017, and on the left is the re edited code for the same.
 
 
-After the 
 
 ## Summary: 
 
